@@ -11,7 +11,6 @@ An end-to-end computer vision application for automated workplace safety complia
 ---
 
 ## 📊 Model Performance & Metrics
-## 📊 Model Performance & Metrics
 The model was evaluated on custom validation splits, yielding strong metrics for workplace safety compliance:
 
 | Metric / Output | Path / Reference |
